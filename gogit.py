@@ -1,1 +1,1 @@
-print ("Este es un archivo de ejemplo para empezar a aprender git")
+print ("Este es un nuevo archivo de ejemplo para empezar a aprender git")
